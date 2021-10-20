@@ -1,0 +1,13 @@
+avatar:
+  url:/image/avatar.jpg
+  rounded:true
+  opacity:1
+
+  banner:
+  title: 丁糊涂的小站
+
+  colors:
+    primary:"#000000"
+  
+
+  
